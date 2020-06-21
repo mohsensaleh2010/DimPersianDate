@@ -1,0 +1,17 @@
+C:\Users\King\source\repos\DateDim\DateDim\bin\Debug\DateDim.exe.config
+C:\Users\King\source\repos\DateDim\DateDim\bin\Debug\DateDim.exe
+C:\Users\King\source\repos\DateDim\DateDim\bin\Debug\DateDim.pdb
+C:\Users\King\source\repos\DateDim\DateDim\obj\Debug\DateDim.Form1.resources
+C:\Users\King\source\repos\DateDim\DateDim\obj\Debug\DateDim.Properties.Resources.resources
+C:\Users\King\source\repos\DateDim\DateDim\obj\Debug\DateDim.csproj.GenerateResource.cache
+C:\Users\King\source\repos\DateDim\DateDim\obj\Debug\DateDim.exe
+C:\Users\King\source\repos\DateDim\DateDim\obj\Debug\DateDim.pdb
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\bin\Debug\DateDim.exe.config
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\bin\Debug\DateDim.exe
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\bin\Debug\DateDim.pdb
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.csprojAssemblyReference.cache
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.Form1.resources
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.Properties.Resources.resources
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.csproj.GenerateResource.cache
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.exe
+C:\Users\King\source\repos\DateDim\DimPersianDate\DateDim\obj\Debug\DateDim.pdb
